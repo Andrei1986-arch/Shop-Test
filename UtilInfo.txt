@@ -1,0 +1,8 @@
+
+
+1. create backend route
+2. create Constants
+3. create reducers
+4. create actions
+5. create screen / view
+6. bring action in view and call it to get what we want from states
